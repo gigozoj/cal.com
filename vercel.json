@@ -1,0 +1,3 @@
+{
+  "buildCommand": "yarn turbo run build --filter=@calcom/web"
+}
